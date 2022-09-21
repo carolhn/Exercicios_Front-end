@@ -8,7 +8,7 @@
  ▫️9.2 JavaScript Assíncrono - Fetch API e async/await<br>
  ▫️9.3 Jest - Testes Assíncronos<br>
  
--- 
+---
  
 
 **Bloco 10 - Introdução à React**<br>
