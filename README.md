@@ -38,10 +38,7 @@
  ----
 
 ### 🔗️ Links:
-
-<p>Acesse: <a href="https://github.com/carolhn" target="_blank" rel="noopener noreferrer">Github</a>.</p>
-
-<p>Acesse: <a href="https://www.linkedin.com/in/caroline-nunes-769307240/" target="_blank" rel="noopener noreferrer">Linkedin</a>.</p>
+<br>
 
 <a target="_blank" href="https://www.linkedin.com/in/caroline-nunes-769307240/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
