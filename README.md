@@ -9,14 +9,14 @@
  ▫️9.2 JavaScript Assíncrono - Fetch API e async/await<br>
  ▫️9.3 Jest - Testes Assíncronos<br>
  
-----
+------
 
 **Bloco 10 - Introdução à React**<br>
  ▫️10.1 Introdução - React<br>
  ▫️10.1 'Hello, world!' no React!<br>
  ▫️10.2 Componentes React<br>
  
- ----
+ ------
 
 **Bloco 11 - Componentes com Estado, Eventos e Formulários com React**<br>
  ▫️11.1 Componentes com estado e eventos<br>
@@ -41,8 +41,6 @@
  ▫️14.3 RTL - Testando React Router<br>
  
  ----
-
-<br>
 
 ### 🔗️ Links:
 <p>Acesse: <a href="https://github.com/carolhn" target="_blank" rel="noopener noreferrer">Github</a>.</p>
