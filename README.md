@@ -9,9 +9,11 @@
  ▫️9.3 Jest - Testes Assíncronos<br>
  
 ------
+ 
+ 
 
 **Bloco 10 - Introdução à React**<br>
- ▫️10.1 Introdução - React<br>
+ ▫ :round_pushpin: 10.1 Introdução - React<br>
  ▫️10.1 'Hello, world!' no React!<br>
  ▫️10.2 Componentes React<br>
  
