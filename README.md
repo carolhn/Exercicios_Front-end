@@ -1,9 +1,9 @@
 # 💻️ Exercicios Trybe.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fbetrybe-dia-das-mulheres-programao-cdigo-mrfS60scJhsWNeVrrZ&psig=AOvVaw1j8vmVWdbqCSrmmzrZ6htC&ust=1663806555768000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDCzcjQpPoCFQAAAAAdAAAAABAD" alt="imagem.png" style="max-width: 50%;">
+<img src="https://media2.giphy.com/media/e6w3i2arfjIoI8hWy0/giphy.gif?cid=ecf05e47zwr41l2zle2hgii85qd0ott15xy1ue058qpqlopt&rid=giphy.gif&ct=g" alt="imagem.png" style="max-width: 50%;">
 
-# ✏️ Nesse modulo vimos sobre: <br>
-[Bloco 09: JavaScript e Testes Assincronos]<br>
+## ✏️ Modulos Front-end <br>
+###[Bloco 09: JavaScript e Testes Assincronos]<br>
  ▫️9.1 Introdução - Front-end<br>
  ▫️9.1 JavaScript Assíncrono e Callbacks<br>
  ▫️9.2 JavaScript Assíncrono - Fetch API e async/await<br>
