@@ -1,9 +1,9 @@
 ## 💻️ Exercicios Trybe.
 
-<img src="https://media2.giphy.com/media/e6w3i2arfjIoI8hWy0/giphy.gif?cid=ecf05e47zwr41l2zle2hgii85qd0ott15xy1ue058qpqlopt&rid=giphy.gif&ct=g" alt="imagem.png" style="max-width: 25%;">
+<img src="https://media2.giphy.com/media/e6w3i2arfjIoI8hWy0/giphy.gif?cid=ecf05e47zwr41l2zle2hgii85qd0ott15xy1ue058qpqlopt&rid=giphy.gif&ct=g" alt="imagem.png" style="width: 25%;">
 
 ### ✏️ Modulos Front-end <br>
-###Bloco 09: JavaScript e Testes Assincronos<br>
+**Bloco 09: JavaScript e Testes Assincronos<br>
  ▫️9.1 Introdução - Front-end<br>
  ▫️9.1 JavaScript Assíncrono e Callbacks<br>
  ▫️9.2 JavaScript Assíncrono - Fetch API e async/await<br>
@@ -33,7 +33,7 @@
 
 <br>
 
-# 🔗️ Links:
+### 🔗️ Links:
 <p>Acesse: <a href="https://github.com/carolhn" target="_blank" rel="noopener noreferrer">Github</a>.</p>
 
 <p>Acesse: <a href="https://www.linkedin.com/in/caroline-nunes-769307240/" target="_blank" rel="noopener noreferrer">Linkedin</a>.</p>
