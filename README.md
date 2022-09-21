@@ -2,7 +2,7 @@
 
 <img src="https://media2.giphy.com/media/e6w3i2arfjIoI8hWy0/giphy.gif?cid=ecf05e47zwr41l2zle2hgii85qd0ott15xy1ue058qpqlopt&rid=giphy.gif&ct=g" alt="imagem.png" style="width: 20%;"> <br>
 
-###Bloco 09: JavaScript e Testes Assincronos**<br>
+### Bloco 09: JavaScript e Testes Assincronos<br>
  ▫️9.1 Introdução - Front-end<br>
  ▫️9.1 JavaScript Assíncrono e Callbacks<br>
  ▫️9.2 JavaScript Assíncrono - Fetch API e async/await<br>
@@ -10,7 +10,7 @@
  
 
 
-###Bloco 10 - Introdução à React**<br>
+### Bloco 10 - Introdução à React**<br>
  ▫10.1 Introdução - React<br>
  ▫️10.1 'Hello, world!' no React!<br>
  ▫️10.2 Componentes React<br>
