@@ -10,12 +10,12 @@
  ▫️9.3 Jest - Testes Assíncronos<br>
 
 
-**[Bloco 10 - Introdução à React]**<br>
+**Bloco 10 - Introdução à React**<br>
  ▫️10.1 Introdução - React<br>
  ▫️10.1 'Hello, world!' no React!<br>
  ▫️10.2 Componentes React<br>
 
-[Bloco 11 - Componentes com Estado, Eventos e Formulários com React]<br>
+Bloco 11 - Componentes com Estado, Eventos e Formulários com React]<br>
  ▫️11.1 Componentes com estado e eventos<br>
  ▫️11.2 Formulários no React<br>
 
