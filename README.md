@@ -42,6 +42,7 @@
  ----
 
 ### 🔗️ Links:
+ <a target="_blank" href="https://www.linkedin.com/in/caroline-nunes-769307240/">
 <p>Acesse: <a href="https://github.com/carolhn" target="_blank" rel="noopener noreferrer">Github</a>.</p>
 
 <p>Acesse: <a href="https://www.linkedin.com/in/caroline-nunes-769307240/" target="_blank" rel="noopener noreferrer">Linkedin</a>.</p>
