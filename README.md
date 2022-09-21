@@ -8,29 +8,39 @@
  ▫️9.1 JavaScript Assíncrono e Callbacks<br>
  ▫️9.2 JavaScript Assíncrono - Fetch API e async/await<br>
  ▫️9.3 Jest - Testes Assíncronos<br>
-
+ 
+----
 
 **Bloco 10 - Introdução à React**<br>
  ▫️10.1 Introdução - React<br>
  ▫️10.1 'Hello, world!' no React!<br>
  ▫️10.2 Componentes React<br>
+ 
+ ----
 
 **Bloco 11 - Componentes com Estado, Eventos e Formulários com React**<br>
  ▫️11.1 Componentes com estado e eventos<br>
  ▫️11.2 Formulários no React<br>
+ 
+ ----
 
 **Bloco 12 - Ciclo de Vida de Componentes e React Router**<br>
  ▫️12.1 Ciclo de vida de componentes<br>
  ▫️12.2 React Router<br>
  
+ ----
+ 
 **Bloco 13 - Metodologias Ágeis**<br>
  ▫️13.1 Metodologias Ágeis<br>
-
+ 
+ ----
 
 **Bloco 14 - Testes automatizados com React Testing Library**<br>
  ▫️14.1 RTL - Primeiros passos<br>
  ▫️14.2 RTL - Mocks e Inputs<br>
  ▫️14.3 RTL - Testando React Router<br>
+ 
+ ----
 
 <br>
 
