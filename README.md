@@ -1,4 +1,4 @@
-## 💻️ Exercicios Trybe <i color="green">Front-end<i>
+## 💻️ Exercicios Trybe - <i>Front-end<i>
 
 <img src="https://media2.giphy.com/media/e6w3i2arfjIoI8hWy0/giphy.gif?cid=ecf05e47zwr41l2zle2hgii85qd0ott15xy1ue058qpqlopt&rid=giphy.gif&ct=g" alt="imagem.png" style="width: 20%;"> <br>
 
