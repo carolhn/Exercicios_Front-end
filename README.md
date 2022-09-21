@@ -47,7 +47,3 @@
 
 <p>Acesse: <a href="https://www.linkedin.com/in/caroline-nunes-769307240/" target="_blank" rel="noopener noreferrer">Linkedin</a>.</p>
   
-  body{
-    			background: url("http://images.apple.com/v/macbookair/a/images/body_bg.png") repeat-x scroll 0 0 #F2F2F2;
-    			font-family: arial, helvetica, sans-serif;
-    		}
