@@ -35,7 +35,22 @@
  ▫️14.2 RTL - Mocks e Inputs<br>
  ▫️14.3 RTL - Testando React Router<br>
  
- ----
+ **Bloco 15: Gerenciamento de estado com Redux**<br>
+ ▫️15.1 - Introdução ao Redux - O estado global da aplicação<br>
+ ▫️15.2 - Usando o Redux no React<br>
+ ▫️15.3 - Usando o Redux no React - Prática<br>
+ ▫️15.4 - Usando o Redux no React - Actions Assíncronas<br>
+ ▫️15.5 - Testes em React-Redux<br>
+ 
+ **Bloco 16: Projeto Jogo de Trivia**<br>
+ ▫️ 16.1 - Projeto - Jogo Trivia <br>
+
+ **Bloco 17: Context API e React Hooks**<br>
+ ▫️17.1 - Context API do React<br>
+ ▫️17.2 - React Hooks - useState e useContext<br>
+ ▫️17.3 - React Hooks - useEffect e Hooks Customizados<br>
+
+----
 
 ### 🔗️ Links:
 <br>
