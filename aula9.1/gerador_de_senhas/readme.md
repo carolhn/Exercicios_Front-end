@@ -36,3 +36,26 @@ npx vite --open
 //---------------Para rodar o projeto---------------------------------------------------------
 para rodar a aplicação
 - npm run dev
+
+//-----------------Deploy do projeto---------------------------------------------------------
+
+1 - Primeiramente, vamos adicionar um novo script ao arquivo package.json:
+// package.json
+// ...
+  "scripts": {
+    "dev": "vite --open",
+    "lint": "eslint ./src",
+    "build": "vite build"
+  },
+// ...
+
+2 - Instalação do Build no terminal. ira criar um diretorio na sua aplicação com o nome "DIST"
+npm run build
+
+3 - Instalação do Surge
+npm install -g surge
+
+4 - Podemos executar o comando abaixo para realizar o deploy do diretório dist:
+surge dist
+
+5 - 
