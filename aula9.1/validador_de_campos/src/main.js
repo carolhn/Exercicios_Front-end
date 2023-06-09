@@ -7,7 +7,7 @@ const seletor = document.querySelector('#option');
 const textoDeSaida = document.querySelector('#answer');
 
 const UUID_VERSION = 4;
-
+// preventDefault serve para nao recarregar a pagina
 button.addEventListener('click', (event) => {
   event.preventDefault();
 
