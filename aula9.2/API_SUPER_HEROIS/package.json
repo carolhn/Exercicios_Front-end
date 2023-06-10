@@ -1,0 +1,20 @@
+{
+  "name": "api_super_herois",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "extends": "@trybe/eslint-config-frontend",
+  "scripts": {
+    "dev": "vite --open",
+    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@trybe/eslint-config-frontend": "^1.11.3",
+    "sweetalert2": "^11.7.12",
+    "vite": "^4.3.9"
+  }
+}
